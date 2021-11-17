@@ -4,7 +4,7 @@ body {
   background-image: url("background.jpg");
 }
 img{
-  width: 25%;
+  width: 50%;
   border:25px cyan ridge;
 }
 h1{font-family: 'Underdog', cursive;
