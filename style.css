@@ -1,0 +1,19 @@
+body {
+  background-color: brown;
+  text-align:center;
+  background-image: url("background.jpg");
+}
+img{
+  width: 25%;
+  border:25px cyan ridge;
+}
+h1{font-family: 'Underdog', cursive;
+background-color: cyan
+}
+h2 {
+  background-color: cyan
+}
+/*groove - Defines a 3D grooved border. The effect depends on the border-color value
+ridge - Defines a 3D ridged border. The effect depends on the border-color value
+inset - Defines a 3D inset border. The effect depends on the border-color value
+outset - Defines a 3D outset border. The effect depends on the border-color value
