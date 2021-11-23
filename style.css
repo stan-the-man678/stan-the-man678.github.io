@@ -5,7 +5,10 @@ body {
 img{
   width: 50%;
   border:25px cyan ridge;
-}
+  }
+  img:hover{
+    border: 25px blue ridge;
+  }
 h1{font-family: 'Underdog', cursive;
 background-color: cyan
 }
@@ -16,3 +19,4 @@ h2 {
 ridge - Defines a 3D ridged border. The effect depends on the border-color value
 inset - Defines a 3D inset border. The effect depends on the border-color value
 outset - Defines a 3D outset border. The effect depends on the border-color value
+when you use img:hover{border:___________ whatever border design}
